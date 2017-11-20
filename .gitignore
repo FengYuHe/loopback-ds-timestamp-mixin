@@ -7,3 +7,6 @@ index.js
 index.js.map
 time-stamp.js
 time-stamp.js.map
+.DS_Store
+.idea/
+
